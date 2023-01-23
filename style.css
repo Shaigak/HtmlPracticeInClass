@@ -1,0 +1,42 @@
+span{
+    color:blue;
+}
+
+.second-text{
+    color:red;
+}
+.first-text{
+    color:brown
+}
+
+#test{
+    color:aqua
+}
+.box1{
+    width: 500px;
+    height: 400px;
+    background-color: blue;
+}
+
+.box2{
+    margin-top: 30px;
+    width: 500px;
+    height: 400px;
+    background-color:blueviolet;
+}
+
+.box3{
+    margin-top: 30px;
+    width: 500px;
+    height: 400px;
+    background-color:rgb(226, 70, 43);
+}
+.box3 a span{
+    color:red;
+}
+
+
+
+.box p{
+    color: brown;
+}
